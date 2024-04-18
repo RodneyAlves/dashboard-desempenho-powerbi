@@ -1,4 +1,5 @@
 # Dashboard de desempenho empresa XY
+Link do dashboard: https://abrir.link/gJ6mi
 
 Análise completa do desempenho de uma empresa de vendas de eletrônicos.
  
